@@ -1,4 +1,4 @@
-# xipi: a toolbox to spilt Xi oscillation and multiple oscillatory Peaks
+# XiPeaks: a toolbox to spilt Xi oscillation and multiple oscillatory Peaks
 
 Main Functions:
 1) Calculate the spectra using thomson multitaper method
